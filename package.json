@@ -1,0 +1,25 @@
+{
+  "name": "electron-5x5",
+  "version": "1.0.0",
+  "description": "electron,electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phantomk/electron-5x5.git"
+  },
+  "keywords": [
+    "electorn"
+  ],
+  "author": "phantomk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phantomk/electron-5x5/issues"
+  },
+  "homepage": "https://github.com/phantomk/electron-5x5#readme",
+  "dependencies": {
+    "electron-prebuilt": "^0.36.2"
+  }
+}
