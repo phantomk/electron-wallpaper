@@ -1,2 +1,2 @@
-# electron-5x5
+# electron-wallpaper
 electron,electron
