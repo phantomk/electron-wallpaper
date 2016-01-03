@@ -20,7 +20,10 @@
   },
   "homepage": "https://github.com/phantomk/electron-wallpaper#readme",
   "dependencies": {
-    "electron-prebuilt": "^0.36.2"
+    "cheerio": "^0.19.0",
+    "electron-prebuilt": "^0.36.2",
+    "express": "^4.13.3",
+    "superagent": "^1.6.1"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
