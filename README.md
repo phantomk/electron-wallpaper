@@ -1,2 +1,2 @@
 # electron-wallpaper
-electron,electron
+by electron + vue + webpack
