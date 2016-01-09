@@ -6,7 +6,8 @@
 </template>
 
 <script lang="coffee">
-
+  heigth = window.screen.height
+  width = window.screen.width
 </script>
 
 <style lang="stylus">
